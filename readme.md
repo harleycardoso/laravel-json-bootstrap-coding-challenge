@@ -45,4 +45,10 @@ Mencione as ferramentas que você usou para criar seu projeto
 
 ## 🎁 Resultado final
 
+![Captura de tela de 2023-08-29 13-12-42](https://github.com/harleycardoso/laravel-json-bootstrap-coding-challenge/assets/109467088/68efa5d1-260a-4db2-9dd8-ca42cb2c7b55)
+![Captura de tela de 2023-08-29 13-09-14](https://github.com/harleycardoso/laravel-json-bootstrap-coding-challenge/assets/109467088/dbbb7986-ccad-4101-8c17-0343ef272802)
+![Captura de tela de 2023-08-29 13-08-43](https://github.com/harleycardoso/laravel-json-bootstrap-coding-challenge/assets/109467088/98b7848b-5e57-479b-b019-408903a9ec8f)
+![Captura de tela de 2023-08-29 13-08-31](https://github.com/harleycardoso/laravel-json-bootstrap-coding-challenge/assets/109467088/fd647872-f482-4340-a4a0-208f2fd0eb34)
+![Captura de tela de 2023-08-29 13-08-21](https://github.com/harleycardoso/laravel-json-bootstrap-coding-challenge/assets/109467088/7430330f-004a-48d4-a04d-be1181e3ece5)
+![Captura de tela de 2023-08-29 13-08-01](https://github.com/harleycardoso/laravel-json-bootstrap-coding-challenge/assets/109467088/5b572ba0-aa30-4f1b-8f7e-5fb09c8c3d7a)
 
