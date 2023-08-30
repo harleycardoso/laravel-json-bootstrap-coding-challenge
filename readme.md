@@ -16,17 +16,17 @@ Garantir que sua máquina local tenha PHP e Composer instalados. Se você estive
 
 ### 🔧 Instalação
 
-Clone o projeto
-# git clone git@github.com:harleycardoso/laravel-coding-challenge.git
+### Clone o projeto
+#git clone git@github.com:harleycardoso/laravel-coding-challenge.git
 
-Acesse o projeto
-# cd laravel-coding-challenge/
+### Acesse o projeto
+#cd laravel-json-bootstrap-coding-challenge/
 
-Instale as dependências e o framework
-# composer install --no-scripts
+### Instale as dependências e o framework
+#composer install --no-scripts
 
-Rode o comando 
-# php artisan server
+### Rode o comando 
+#php artisan server
 
 Acesse no navegador http://localhost:8000
 
