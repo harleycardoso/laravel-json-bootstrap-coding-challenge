@@ -12,6 +12,7 @@ Consulte **[Implantação](https://laravel.com/docs/10.x/installation)** para sa
 
 ### 📋 Pré-requisitos
 
+PHP "^7.1.3"
 Garantir que sua máquina local tenha PHP e Composer instalados. Se você estiver desenvolvendo no macOS, o PHP e o Composer podem ser instalados em minutos via Laravel Herd . Além disso, recomendamos a instalação do Node e do NPM .
 
 ### 🔧 Instalação
@@ -26,7 +27,7 @@ Garantir que sua máquina local tenha PHP e Composer instalados. Se você estive
 #composer install --no-scripts
 
 ### Rode o comando 
-#php artisan server
+#php artisan serve
 
 Acesse no navegador http://localhost:8000
 
